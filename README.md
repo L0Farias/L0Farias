@@ -34,16 +34,19 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,dotnet,nodejs,react,electron,mysql,mongodb,git,unity,godot&perline=8" />
 </div>
 
-
 <div align="center">
+ <div align="center">
   <h2>🐍 Minhas Contribuições</h2>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake.svg" 
-         alt="Snake Contribution" />
-  </picture>
+  <div style="width: 100%; max-width: 720px; overflow: hidden; border-radius: 10px; padding: 10px; background: #0d1117; border: 1px solid #21262d;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake-dark.svg">
+      <img src="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake.svg" 
+           alt="Snake Contribution" 
+           style="width: 100%; height: auto; display: block; max-height: 220px;" />
+    </picture>
+  </div>
 </div>
 
 <div align="center">
