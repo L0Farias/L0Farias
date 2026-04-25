@@ -35,16 +35,15 @@
 </div>
 
 <div align="center">
- <div align="center">
   <h2>🐍 Minhas Contribuições</h2>
   
-  <div style="width: 100%; max-width: 720px; overflow: hidden; border-radius: 10px; padding: 10px; background: #0d1117; border: 1px solid #21262d;">
+  <div style="width: 100%; max-width: 620px; overflow: hidden; border-radius: 12px; padding: 20px; background: #0d1117; border: 2px solid #21262d;">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
               srcset="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake-dark.svg">
       <img src="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake.svg" 
            alt="Snake Contribution" 
-           style="width: 100%; height: auto; display: block; max-height: 220px;" />
+           style="width: 100%; height: auto; display: block; max-height: 180px; transform: scale(0.92);" />
     </picture>
   </div>
 </div>
