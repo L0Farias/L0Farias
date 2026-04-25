@@ -13,12 +13,12 @@ jobs:
 
       - name: Generate Snake
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
