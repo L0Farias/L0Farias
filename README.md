@@ -9,9 +9,9 @@
 
 <br>
 
-  <h2>📝 Sobre Mim</h2>
+  <h2 align="center">📝 Sobre Mim</h2>
   
-  <p>
+  <p align="center">
     Sou um desenvolvedor em formação, dedicado a aprender novas tecnologias e transformar ideias em projetos reais.<br><br>
     Tenho experiência com desenvolvimento de sites, scripts e estudos de algoritmos. Além disso, tenho grande interesse em 
     desenvolvimento de jogos e aplicações inteligentes.<br><br>
