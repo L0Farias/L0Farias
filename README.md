@@ -1,7 +1,17 @@
+<!-- ==================== BANNER COM METEORS ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=meteor&color=0d1117,00ff9d,7b00ff&height=260&section=header&text=Lucas%20Freitas%20Farias&fontSize=45&fontAlignY=40&animation=meteor&fontColor=ffffff" 
+       width="100%" 
+       alt="Meteor Banner">
+</div>
+
+<br>
+
 <h1 align="center">👋 Olá! Eu sou o Lucas Freitas Farias</h1>
 <h3 align="center">Desenvolvedor em Formação | Apaixonado por Código e Tecnologia</h3>
 
-<div align="center">
+<br>
+
   <h2>📝 Sobre Mim</h2>
   
   <p>
