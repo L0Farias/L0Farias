@@ -1,8 +1,5 @@
-<!-- ==================== BANNER COM METEORS ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=meteor&color=0d1117,00ff9d,7b00ff&height=260&section=header&text=Lucas%20Freitas%20Farias&fontSize=45&fontAlignY=40&animation=meteor&fontColor=ffffff" 
-       width="100%" 
-       alt="Meteor Banner">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 <br>
@@ -23,8 +20,7 @@
 </div>
 
 <div align="center">
-  <h2>📊 Minhas Estatísticas</h2>
-  
+  <h2>📊 Minhas Estatísticas</h2>  
   <table>
     <tr>
       <td align="center">
@@ -37,26 +33,28 @@
   </table>
 </div>
 
-
 <div align="center">
   <h2>🛠️ Tecnologias que eu uso</h2>
   
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,dotnet,nodejs,react,electron,mysql,mongodb,git,unity,godot&perline=8" />
-</div>
-
-<div align="center">
-  <h2>🐍 Minhas Contribuições</h2>
-  
-  <div style="width: 100%; max-width: 620px; overflow: hidden; border-radius: 12px; padding: 20px; background: #0d1117; border: 2px solid #21262d;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake-dark.svg">
-      <img src="https://raw.githubusercontent.com/L0Farias/L0Farias/output/snake.svg" 
-           alt="Snake Contribution" 
-           style="width: 100%; height: auto; display: block; max-height: 180px; transform: scale(0.92);" />
-    </picture>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   </div>
 </div>
+<div align="center">
+  <h2>👻Minhas Contribuições</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L0Farias/L0Farias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L0Farias/L0Farias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/L0Farias/L0Farias/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 <div align="center">
   <h2>🎯 Meus Objetivos</h2>
